@@ -1,0 +1,176 @@
+BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	3	3	365,55704	373,57408
+
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	2	2	358,08602	380,80290
+
+İSTANBUL TEKNİK ÜNİVERSİTESİ	Bilgisayar ve Bilişim Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	350,78544	359,40248
+
+HACETTEPE ÜNİVERSİTESİ (ANKARA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	4	4	337,71132	347,29763
+
+GALATASARAY ÜNİVERSİTESİ (İSTANBUL)	Mühendislik ve Teknoloji Fakültesi	Bilgisayar Mühendisliği (Fransızca)	SAY	1	1	337,63128	337,63128
+
+YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)	Elektrik-Elektronik  Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	331,19088	340,11881
+
+MARMARA ÜNİVERSİTESİ (İSTANBUL)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	4	4	325,14646	345,12977
+
+İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	321,15317	351,55848
+
+TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (Almanca)	SAY	2	2	317,42274	331,10778
+
+EGE ÜNİVERSİTESİ (İZMİR)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	8	8	317,36543	324,66532
+
+İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	4	4	313,95716	316,96085
+
+GAZİ ÜNİVERSİTESİ (ANKARA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	5	5	311,46178	324,55947
+
+ANKARA ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	5	5	311,38538	332,83296
+
+ANKARA ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	5	5	309,09831	348,63996
+
+DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	306,84151	314,46227
+
+GAZİ ÜNİVERSİTESİ (ANKARA)	Teknoloji Fakültesi	Bilgisayar Mühendisliği	SAY	4	4	306,45383	330,02396
+
+ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ	Mühendislik  ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	301,71235	320,75725
+
+ESKİŞEHİR TEKNİK ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	5	5	301,45883	324,47860
+
+ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	301,10468	325,36050
+
+ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	2	2	300,65457	300,98931
+
+AKDENİZ ÜNİVERSİTESİ (ANTALYA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	299,54865	311,30564
+
+MANİSA CELÂL BAYAR ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	299,33002	309,80616
+
+KOCAELİ ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	9	9	298,91392	320,33683
+
+SAKARYA ÜNİVERSİTESİ	Bilgisayar ve Bilişim Bilimleri Fakültesi	Bilgisayar Mühendisliği	SAY	11	11	297,29759	350,01221
+
+BURSA ULUDAĞ ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	294,76177	305,23616
+
+ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	290,71066	293,23509
+
+PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	290,63150	297,36329
+
+KOCAELİ ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	9	9	290,00894	296,46542
+
+SAKARYA ÜNİVERSİTESİ	Bilgisayar ve Bilişim Bilimleri Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	11	11	289,98907	315,04366
+
+ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	289,40306	303,34252
+
+MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	289,37900	302,61712
+
+MANİSA CELÂL BAYAR ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce) (İÖ)	SAY	6	6	288,87245	306,96871
+
+ÇUKUROVA ÜNİVERSİTESİ (ADANA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	7	7	288,64826	323,27673
+
+AYDIN ADNAN MENDERES ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	287,88535	298,38766
+
+SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	286,30373	295,16985
+
+BALIKESİR ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	285,08565	299,11213
+
+KONYA TEKNİK ÜNİVERSİTESİ	Mühendislik  ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	284,01503	313,77201
+
+KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	8	8	283,88028	290,53970
+
+BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	282,91264	290,63734
+
+TRAKYA ÜNİVERSİTESİ (EDİRNE)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	9	9	282,76473	332,94821
+
+BATMAN ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	3	3	282,61657	299,66612
+
+SELÇUK ÜNİVERSİTESİ (KONYA)	Teknoloji Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	281,71313	294,80017
+
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ	Çorlu Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	281,18017	289,63870
+
+YALOVA ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	281,13362	288,30391
+
+KIRIKKALE ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	280,71960	289,30163
+
+MERSİN ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	280,37789	303,24833
+
+DÜZCE ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	280,18517	292,37078
+
+ERCİYES ÜNİVERSİTESİ (KAYSERİ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	9	9	280,00758	321,21214
+
+KIRIKKALE ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	279,87424	289,53305
+
+KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	279,31858	299,89584
+
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ	Çorlu Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	278,54888	292,72112
+
+NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)	Mühendislik ve Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	278,23442	289,01835
+
+SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	278,11137	287,76766
+
+ÇUKUROVA ÜNİVERSİTESİ (ADANA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İngilizce) (İÖ)	SAY	7	7	277,96647	295,45890
+
+DÜZCE ÜNİVERSİTESİ	Teknoloji Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	277,11221	319,82038
+
+ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	4	4	277,10692	288,62771
+
+KONYA TEKNİK ÜNİVERSİTESİ	Mühendislik  ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	275,93903	283,50009
+
+ATATÜRK ÜNİVERSİTESİ (ERZURUM)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	275,92837	304,68667
+
+BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	275,65863	286,26171
+
+SELÇUK ÜNİVERSİTESİ (KONYA)	Teknoloji Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	275,07541	291,12982
+
+KARABÜK ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	274,35809	279,02533
+
+KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	274,26013	288,55042
+
+İNÖNÜ ÜNİVERSİTESİ (MALATYA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	273,72642	335,13260
+
+DÜZCE ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	273,58603	279,25190
+
+KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	273,30231	278,04570
+
+ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	273,10696	292,08697
+
+BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	5	5	272,95203	276,25055
+
+KARABÜK ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İngilizce)	SAY	6	6	272,80858	276,67285
+
+ERCİYES ÜNİVERSİTESİ (KAYSERİ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	9	9	272,75697	275,78501
+
+DÜZCE ÜNİVERSİTESİ	Teknoloji Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	272,68349	275,12227
+
+SİİRT ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	2	2	272,30779	281,79165
+
+İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)	Mühendislik ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	272,04900	291,25602
+
+İNÖNÜ ÜNİVERSİTESİ (MALATYA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	271,51206	292,24407
+
+FIRAT ÜNİVERSİTESİ (ELAZIĞ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	9	9	270,84546	289,11059
+
+İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)	Mühendislik ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	270,05886	287,75796
+
+SİVAS CUMHURİYET ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	270,04294	277,27873
+
+KASTAMONU ÜNİVERSİTESİ	Mühendislik  ve Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	5	5	269,64924	273,76455
+
+KARABÜK ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	269,30358	284,53303
+
+TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ	Mühendislik  ve Doğa Bilimleri Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	269,13568	290,63540
+
+ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	267,90787	284,74902
+
+SİVAS CUMHURİYET ÜNİVERSİTESİ	Mühendislik  Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	267,72322	276,29212
+
+YOZGAT BOZOK ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	267,68998	269,31158
+
+MUNZUR ÜNİVERSİTESİ (TUNCELİ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	2	2	266,81312	270,83047
+
+FIRAT ÜNİVERSİTESİ (ELAZIĞ)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	7	7	266,79910	284,24922
+
+ATATÜRK ÜNİVERSİTESİ (ERZURUM)	Mühendislik Fakültesi	Bilgisayar Mühendisliği (İÖ)	SAY	6	6	266,64412	284,22805
+
+HARRAN ÜNİVERSİTESİ (ŞANLIURFA)	Mühendislik Fakültesi	Bilgisayar Mühendisliği	SAY	7	7	266,40227	278,67043
+
+MUŞ ALPARSLAN ÜNİVERSİTESİ	Mühendislik-Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	2	2	266,31747	278,97114
+
+ERZURUM TEKNİK ÜNİVERSİTESİ	Mühendislik  ve Mimarlık Fakültesi	Bilgisayar Mühendisliği	SAY	6	6	266,06047	273,01956
+
