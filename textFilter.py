@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+
 import os
 import platform
 
 
 file_path = os.path.dirname(__file__) + "/textBeforeFilter.txt"
-with open(file_path, "r") as data_file:
+with open(file_path, "r", encoding="utf-8" ) as data_file:
     data = data_file.readlines()
 
 new_data = []
@@ -14,7 +17,7 @@ for i in data:
         pass
 
 new_file_path = os.path.dirname(__file__)+"/textAfterFilter.txt"
-with open (new_file_path, "w") as new_data_file:
+with open (new_file_path, "w", encoding="utf-8") as new_data_file:
         new_data_file.writelines(new_data)
 
 if platform.system() == "Linux":
